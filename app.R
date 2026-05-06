@@ -12,8 +12,8 @@ library(visNetwork)
 
 #### DATA SETUP ####
 
-nodes_raw <- read.csv("~/Desktop/soci226/genji_app/SOCI226_final_nodes.csv")
-edges_raw <- read.csv("~/Desktop/soci226/genji_app/SOCI226_final_edges.csv")
+nodes_raw <- read.csv("SOCI226_final_nodes.csv")
+edges_raw <- read.csv("SOCI226_final_edges.csv")
 
 # Full directed network with centrality measures
 genji_full <- tbl_graph(nodes = nodes_raw, edges = edges_raw, directed = TRUE)
@@ -508,3 +508,4 @@ server <- function(input, output) {
 
 #### RUN ####
 shinyApp(ui = ui, server = server)
+
