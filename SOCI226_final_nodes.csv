@@ -1,0 +1,34 @@
+id,name_jp,name_en,gender,rank,status,first_appearance,ch1_status,ch4_status,ch5_status
+Kiritsubo_Emperor,桐壺帝,Kiritsubo Emperor,M,emperor,alive,Ch1,alive,NA,alive
+Kiritsubo_Consort,桐壺更衣,Kiritsubo Consort,F,koui,deceased,Ch1,dies,NA,NA
+Genji,光源氏,Hikaru Genji,M,prince_then_commoner,alive,Ch1,alive,alive,alive
+Kokiden,弘徽殿女御,Kokiden Consort,F,nyogo,alive,Ch1,alive,NA,NA
+First_Prince,一の宮,First Prince,M,prince,alive,Ch1,alive,NA,NA
+Fujitsubo,藤壺,Fujitsubo,F,nyogo,alive,Ch1,alive,NA,alive
+Kiritsubo_Mother,桐壺更衣の母,Kiritsubo's Mother,F,noble_widow,deceased,Ch1,dies,NA,NA
+Minister_Left,左大臣,Minister of the Left,M,minister,alive,Ch1,alive,NA,alive
+Aoi,葵の上,Aoi no Ue,F,noble,alive,Ch1,alive,NA,alive
+Minister_Right,右大臣,Minister of the Right,M,minister,alive,Ch1,alive,NA,NA
+Yugei_Myobu,靫負命婦,Yugei no Myobu,F,court_lady,alive,Ch1,alive,NA,NA
+Naishi_no_Suke,典侍,Naishi no Suke,F,court_lady,alive,Ch1,alive,NA,NA
+Udaiben,右大弁,Udaiben,M,official,alive,Ch1,alive,NA,NA
+Korean_Physiognomer,高麗の相人,Korean Physiognomer,M,foreign_visitor,alive,Ch1,alive,NA,NA
+Fujitsubo_Mother,藤壺の母后,Fujitsubo's Mother (Empress),F,empress,deceased,Ch1,dies,NA,NA
+Hyobukyo,兵部卿宮,Prince Hyobukyo,M,prince,alive,Ch1,alive,NA,alive
+Okura_Kyo_Kurodo,大蔵卿の蔵人,Okura-kyo no Kurodo,M,official,alive,Ch1,alive,NA,NA
+Naishi,内侍,Naishi,F,court_lady,alive,Ch1,alive,NA,NA
+Kurodo_Shosho,蔵人少将,Kurodo no Shosho,M,noble,alive,Ch1,alive,NA,NA
+Fourth_Princess_Right,右大臣の四の宮,Fourth Princess (of Right Minister),F,noble,alive,Ch1,alive,NA,NA
+To_no_Chujo,頭中将,To no Chujo,M,noble,alive,Ch1,alive,alive,NA
+Koremitsu,惟光,Koremitsu,M,retainer,alive,Ch4,NA,alive,alive
+Daini_no_Menoto,大弐の乳母,Daini no Menoto,F,nurse,deceased,Ch4,NA,dies,NA
+Yugao,夕顔,Yugao,F,noble_in_hiding,deceased,Ch4,NA,dies,NA
+Ukon,右近,Ukon,F,attendant,alive,Ch4,NA,alive,NA
+Rokujo,六条御息所,Rokujo no Miyasudokoro,F,high_noble_widow,alive,Ch4,NA,alive,NA
+Murasaki,紫の上,Murasaki no Ue (Wakamurasaki),F,child_noble,alive,Ch5,NA,NA,alive
+Amagimi,尼君,Amagimi,F,nun,deceased,Ch5,NA,NA,dies
+Sozu,北山の僧都,Kitayama no Sozu,M,high_priest,alive,Ch5,NA,NA,alive
+Shonagon,少納言の乳母,Shonagon no Menoto,F,nurse,alive,Ch5,NA,NA,alive
+Hijiri,北山の聖,Kitayama no Hijiri,M,ascetic_monk,alive,Ch5,NA,NA,alive
+Yoshikiyo,良清,Yoshikiyo,M,retainer,alive,Ch5,NA,NA,alive
+O_no_Myobu,王命婦,O no Myobu,F,court_lady,alive,Ch5,NA,NA,alive
