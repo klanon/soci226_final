@@ -119,7 +119,7 @@ ui <- fluidPage(
             with the story's chapter structure. Court characters from Chapter 1 cluster together,
             Chapter 4's romantic world forms another group, and Chapter 5's Kitayama/Murasaki
             world forms a third. This suggests each chapter describes a relatively self-contained
-            social world, connected primarily through Genji himself."),
+            social world and connected primarily through Genji himself."),
                  p("Navigate to the", strong("Communities"), "tab to see the detected communities
             colored on the network.")
                ),
@@ -248,10 +248,7 @@ ui <- fluidPage(
                
                card(
                  card_header("Community Detection (Louvain)"),
-                 "Each color represents a community detected by the Louvain algorithm.
-           Notice how communities roughly correspond to chapters — court characters
-           from Ch.1 cluster together, Yugao's world forms another group, and the
-           Kitayama/Murasaki world forms a third.",
+                 "Each color represents a community detected by the Louvain algorithm.",
                  plotOutput("comm_network", height = "600px")
                )
              )
@@ -282,7 +279,7 @@ ui <- fluidPage(
             (each direction counted separately), messenger-relayed communication (both legs counted),
             ceremonial co-presence with a functional role, or a marriage event."),
                  p("Excluded: inner thoughts, third-party remarks, kinship alone, and supernatural
-            interactions (e.g., Rokujo's living spirit killing Yugao — the two women never
+            interactions (e.g., Rokujo's living spirit killing Yugao. The two women never
             physically meet)."),
                  p("Four characters (Kokiden, First Prince, Minister of Right, Fujitsubo's Mother)
             appear as isolated nodes: they are mentioned in the text but have no qualifying
